@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "264186682186",
+    "firebase_url": "https://minhastaredaspush.firebaseio.com",
+    "project_id": "minhastaredaspush",
+    "storage_bucket": "minhastaredaspush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264186682186:android:75d639f32ceb79aa",
+        "android_client_info": {
+          "package_name": "br.com.bylearn.minhastarefaspush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264186682186-evt9kaqup52ps3chqq8jhddqa9vf7ld5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRT2MSxXagqoETLjMhA_JC0NcgUK2mhzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264186682186-evt9kaqup52ps3chqq8jhddqa9vf7ld5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
